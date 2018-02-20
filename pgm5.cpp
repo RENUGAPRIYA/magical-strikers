@@ -5,7 +5,7 @@ int main()
 {    
     float n1, n2, n3;
 
-    cout << "Enter three numbers: ";
+    cout << "Enter 3 numbers: ";
     cin >> n1 >> n2 >> n3;
 if(n1 >= n2 && n1 >= n3)
     {
