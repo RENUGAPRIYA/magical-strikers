@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void main()
 {
     int n;
 
@@ -12,6 +12,5 @@ int main()
         cout << n << " is even.";
     else
         cout << n << " is odd.";
-
-    return 0;
+getch();
 }
