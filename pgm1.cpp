@@ -7,9 +7,9 @@ void main()
  cout<<"Enter a number : ";
  cin>>number;
  if(number>0)
-   cout<<"Number is Positive";
+   cout<<"Number is +ve";
  else if(number<0) 
-   cout<<"Number is Negative";
+   cout<<"Number is -ve";
  else
    cout<<"Number is Zero";
  getch();
