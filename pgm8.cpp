@@ -5,10 +5,10 @@ int main()
 {
     int n, sum = 0;
 
-    cout << "Enter a positive integer: ";
+    cout << "Enter a  integer: ";
     cin >> n;
 
-    for (int i = 1; i <= n; ++i) {
+    for (int i = 1; i <= n; i++) {
         sum += i;
     }
 
