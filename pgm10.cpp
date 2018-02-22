@@ -11,6 +11,6 @@ while(no>0)
 no=no/10;
 a++;
 }
-cout<<"\n no. of digits in given number is: "<<a;
+cout<<"\n no. of digits in is: "<<a;
 getch();
 }
