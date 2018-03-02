@@ -6,7 +6,7 @@ void main()
 {
 	clrscr();
 	char strs[100], countw=0, strw[15], i;
-	cout<<"Write a sentence : ";
+	cout<<"Write a  good sentence : ";
 	gets(strs);
 	int len=strlen(strs);
 	for(i=0; i<len; i++)
